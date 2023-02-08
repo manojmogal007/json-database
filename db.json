@@ -4,5 +4,6 @@
   "check":[
     {"name":"Harry","profession":"developer","ismarried":false}
   ],
+  "posts":[],
   "profile": { "name": "typicode" }
 }
